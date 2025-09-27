@@ -27,4 +27,4 @@ Some notable insights derived from the dashboard include:
 ## Tools & Technologies
 - **Power BI Desktop** – for dashboard creation and visualization
 - **IBM HR Analytics Dataset** – for employee data
-- **DAX** – for calculations such as attrition rate, average salary, and satisfaction scores
+- **DAX** – for calculations such as attrition rate, average salary, etc.
