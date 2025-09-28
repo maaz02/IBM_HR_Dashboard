@@ -1,6 +1,6 @@
 # IBM HR Analytics PowerBI Dashboard
 
-##Overview
+## Overview
 This Power BI dashboard provides an interactive analysis of employee data from IBM’s HR dataset. It is designed to help HR professionals and management understand workforce trends, identify patterns in employee attrition, and make data-driven decisions to improve employee retention and engagement.
 
 ---
